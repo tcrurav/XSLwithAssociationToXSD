@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bicycles>
+    <bicycle>
+        <name Type="mountain">Orbea</name>
+        <price>19992332</price>
+    </bicycle>
+    <bicycle>
+        <name Type="mountain">BH</name>
+        <price>19992332</price>
+    </bicycle>
+    <bicycle >
+        <name Type="mountain">Sprinter</name>
+        <price>1999</price>
+    </bicycle>
+</bicycles>

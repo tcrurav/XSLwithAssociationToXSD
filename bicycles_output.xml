@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bicycles xsi:schemaLocation="https://www.tiburcio.com bicycles.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://www.tiburcio.com">
+<brand>Orbea</brand>
+<brand>BH</brand>
+<brand>Sprinter</brand>
+</bicycles>
